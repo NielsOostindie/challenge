@@ -1,0 +1,20 @@
+#help{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 8px solid blue;
+}
+
+#weekend{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    border-style: dotted;
+}
+
+form{
+    border: 2px solid grey;
+    width: 200px;
+}
